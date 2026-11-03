@@ -1,0 +1,15 @@
+vendor_id,vendor_name,category,department,monthly_volume,average_processing_time,delay_rate,sla_compliance
+VND-101,Northline Freight,Logistics,Fulfillment,195.3,4.43,5.03,87.13
+VND-102,RapidRoute Freight,Logistics,Fulfillment,138.7,5.21,26.02,71.86
+VND-103,BlueHarbor Logistics,Logistics,Fulfillment,88.1,4.26,3.88,89.45
+VND-104,Meridian Components,Manufacturing,Fulfillment,461.4,2.96,12.08,85.63
+VND-105,Atlas Packaging Supply,Packaging,Fulfillment,301.1,2.68,3.93,91.81
+VND-110,Clearwater Print Services,Outsourced Services,Customer Operations,175.1,1.55,5.66,98.07
+VND-206,Summit Advisory Group,Professional Services,Procurement,44.4,6.71,15.38,83.08
+VND-207,Peak Procurement Partners,Professional Services,Procurement,120.2,2.97,3.26,89.66
+VND-208,Sterling Office Systems,Office Services,Procurement,18.9,6.61,15.42,84.25
+VND-210,LedgerWorks Advisory,Professional Services,Finance Operations,372.8,1.61,5.1,91.47
+VND-309,CoreTech Services,IT Services,IT Support,345.8,2.85,4.84,96.77
+VND-310,NetGuard Support,IT Services,IT Support,206.7,4.02,15.36,87.39
+VND-401,Redline Industrial Supply,Industrial Supplies,Procurement,207.8,2.55,15.24,79.89
+VND-402,Halcyon Safety Equipment,Safety,Procurement,161.3,2.28,3.87,89.78

@@ -1,0 +1,6 @@
+department_id,department_name,operational_area,headcount
+DEP-101,Customer Operations,Front Office,34
+DEP-102,Fulfillment,Warehouse & Logistics,48
+DEP-103,Finance Operations,Back Office,22
+DEP-104,IT Support,Technical Services,18
+DEP-105,Procurement,Supply Chain,16
